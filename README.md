@@ -8,7 +8,7 @@
 
 ⬅️ API Endpoints - Think of API as "buttons" on the backend of software that other programs can engage with to make it performs actions. Developers use endpoints to build integrations for instance allowing one application to pull data from another. 
      
-         
+           
 ### Claude 101  
 Claude is more than just a chatbot, it's an AI assistant designed to be a thinking partner......   
 Some of Claude's capabilities included:    
