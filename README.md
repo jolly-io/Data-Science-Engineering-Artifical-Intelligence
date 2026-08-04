@@ -7,6 +7,8 @@
 🥈 AI Agents - An autonomous AI system that can engage one or more artificial intelligence systems to execute a task or set of tasks successfully. Is autonomy the key differentiator?  
 
 ⬅️ API Endpoints - Think of API as "buttons" on the backend of software that other programs can engage with to make it performs actions. Developers use endpoints to build integrations for instance allowing one application to pull data from another. 
+
+▶️ Chain Of Thoughts - 
      
            
 ### Claude 101   
