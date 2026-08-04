@@ -8,7 +8,7 @@
 
 ⬅️ API Endpoints - Think of API as "buttons" on the backend of software that other programs can engage with to make it performs actions. Developers use endpoints to build integrations for instance allowing one application to pull data from another. 
 
-▶️ Chain Of Thoughts - This refers to breaking down a problem/task into smaller intermediate steps to 
+▶️ Chain Of Thoughts - This refers to breaking down a problem/task into smaller intermediate steps to improve the confidence of the end result.
      
            
 ### Claude 101   
