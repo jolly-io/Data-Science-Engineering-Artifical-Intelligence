@@ -11,7 +11,7 @@
 ▶️ Chain Of Thoughts - This refers to breaking down a problem/task into smaller intermediate steps to improve the quality of each action sequence and thus they confidence of the end result. This approach usually takes more time to return the final result but it increase the likelihood of a more reliable answer, especially in a coding or logical context.               
 
        
-### Claude 101   
+### Claude 101    
 Claude is more than just a chatbot, it's an AI assistant designed to be a thinking partner......        
 - writing        
 - research & analysis        
