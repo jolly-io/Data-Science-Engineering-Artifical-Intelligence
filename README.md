@@ -12,7 +12,7 @@
 
 🤡 Coding Agents - This is a specialized kind of AI Agents created specifically for software development and engineering  
 
-    
+      
          
 ### Claude 101    
 Claude is more than just a chatbot, it's an AI assistant designed to be a thinking partner......        
