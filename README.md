@@ -14,7 +14,7 @@
  
 👽 *Compute* - This is the vital computational power that models require to operate and function. It also used to describe the hardware that provisions the computational power such as TPUs, CPUs, and other related infrastructures.         
 
-👽     
+👽      
         
 ### Claude 101       
 
