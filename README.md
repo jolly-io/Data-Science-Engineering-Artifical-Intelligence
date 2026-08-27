@@ -14,7 +14,7 @@
  
 👽 *Compute* - This is the vital computational power that models require to operate and function. It also used to describe the hardware that provisions the computational power such as TPUs, CPUs, and other related infrastructures.               
 
-👽 *Diffusion* -   Models used primarily for image generation and other computer vision tasks   
+👽 *Diffusion* -   Diffusion based neural networks are trained through deep learning to progressively diffuse samples with random noise, and then reverse the process to generate quality images. Models used primarily for image generation and other computer vision tasks   
                
 ### Claude 101        
     
