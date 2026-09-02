@@ -16,7 +16,7 @@
 
 👽 *Diffusion* -   Diffusion based neural networks are trained through deep learning to progressively diffuse samples with random noise, and then reverse the process to generate quality images. Models used primarily for image generation and other computer vision tasks.
 
-👽 *Deep Learning* -   
+👽 *Deep Learning* - Subset of machine learning that is self-improving where algorithms are created with a multi-layered, artificial neural network structure.
                  
 ### Claude 101           
          
