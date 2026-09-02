@@ -16,7 +16,7 @@
 
 👽 *Diffusion* -   Diffusion based neural networks are trained through deep learning to progressively diffuse samples with random noise, and then reverse the process to generate quality images. Models used primarily for image generation and other computer vision tasks.
 
-👽 *Deep Learning* - 
+👽 *Deep Learning* -   
                  
 ### Claude 101           cc
          
