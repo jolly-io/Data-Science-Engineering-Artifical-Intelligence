@@ -18,7 +18,7 @@
 
 👽 *Deep Learning* - Subset of machine learning that is self-improving where algorithms are created with a multi-layered, artificial neural network structure. 
                  
-### Claude 101           
+### Claude 101             
          
 Claude is more than just a chatbot, it's an AI assistant designed to be a thinking partner......              
 - writing           
