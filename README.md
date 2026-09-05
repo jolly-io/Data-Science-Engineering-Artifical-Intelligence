@@ -18,7 +18,7 @@
 
 👽 *Deep Learning* - Subset of machine learning that is self-improving where algorithms are created with a multi-layered, artificial neural network structure. Through errors, repetition and adjustment, deep learning algorithms and models are able to improve their output performance.
 
-👽 **
+👽 *Distillation* - 
 
 
               
