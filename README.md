@@ -20,7 +20,7 @@
 
 👽 *Distillation* - This a the technique used to describe to extract knowledge from a large AI model with a 'teacher-student' model. researchers sent requests to an AI model, then records the outputs. These outputs are used to train the student model to approximate the larger teacher-model's behavior.    
   
-🔮 *Temperature* - A setting controlling randomness in a model output. (Low = predictable, high = creative)
+🔮 *Temperature* - A setting controlling randomness in a model output. (Low = predictable, high = creative)  
 
          
 ### Claude 101                       
