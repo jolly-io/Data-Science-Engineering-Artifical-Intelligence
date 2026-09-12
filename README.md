@@ -22,6 +22,7 @@
   
 🔮 *Temperature* - A setting controlling randomness in a model output. (Low = predictable, high = creative)  
 
+
          
 ### Claude 101                       
            
