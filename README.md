@@ -10,7 +10,7 @@
 
 ⬅️ API Endpoints - Think of API as "buttons" on the backend of software that other programs can engage with to make it performs actions. Developers use endpoints to build integrations for instance allowing one application to pull data from another. 
 
-🅰️ AI Alignment - Involves making sure an AI goals and behaviors matches what people actually want in terms of goals, values and intentions.
+🅰️ AI Alignment - Involves making sure an AI goals and behaviors matches what people actually want in terms of goals, values and intentions. It's about getting the AI to do the "right thing" in new situations.
 
 ▶️ Chain Of Thoughts - This refers to breaking down a problem/task into smaller intermediate steps to improve the quality of each action sequence and thus they confidence of the end result. This approach usually takes more time to return the final result but it increase the likelihood of a more reliable answer, especially in a coding or logical context.  Reasoning models are developed from traditional large language models, and are optimized for chain-of-thought reasoning using reinforcement learning. 
 
