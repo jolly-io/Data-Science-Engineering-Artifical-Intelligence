@@ -23,7 +23,7 @@
 🔮 *Temperature* - A setting controlling randomness in a model output. (Low = predictable, high = creative)  
 
 
-         
+  
 ### Claude 101                       
            
 Claude is more than just a chatbot, it's an AI assistant designed to be a thinking partner......                  
