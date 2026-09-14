@@ -6,7 +6,7 @@
 
 🥈 AI Agents - An autonomous AI system that can engage one or more artificial intelligence systems to execute a task or set of tasks successfully. Is autonomy the key differentiator?  
 
-▶️ Retrieval Augmented Generation (RAG) - 
+▶️ Retrieval Augmented Generation (RAG) - A technique that helps language models generate higher quality outputs by allowing them to access to external up-to-date information first.
 
 ⬅️ API Endpoints - Think of API as "buttons" on the backend of software that other programs can engage with to make it performs actions. Developers use endpoints to build integrations for instance allowing one application to pull data from another. 
 
