@@ -26,6 +26,8 @@
   
 🔮 *Temperature* - A setting controlling randomness in a model output. (Low = predictable, high = creative)   
 
+👽 *AI Benchmarks* - Are standardized tests used to measure how well an AI system perform on specific tasks.  
+
 ### Claude 101                       
            
 Claude is more than just a chatbot, it's an AI assistant designed to be a thinking partner......                  
