@@ -26,7 +26,7 @@
   
 🔮 *Temperature* - A setting controlling randomness in a model output. (Low = predictable, high = creative)   
 
-👽 *AI Benchmarks* - Are standardized tests used to measure how well an AI system perform on specific tasks.  
+👽 *AI Benchmarks* - Are standardized tests used to measure how well an AI system perform on specific tasks such as writing code, answering questions, identifying images, following instructions.
 
 ### Claude Fundamentals                     
            
