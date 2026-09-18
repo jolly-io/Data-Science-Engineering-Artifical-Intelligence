@@ -28,7 +28,7 @@
 
 👽 *AI Benchmarks* - Are standardized tests used to measure how well an AI system perform on specific tasks.  
 
-### Claude 101                       
+### Claude Fundamentals                     
            
 Claude is more than just a chatbot, it's an AI assistant designed to be a thinking partner......                  
 - writing                   
