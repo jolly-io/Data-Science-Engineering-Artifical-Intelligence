@@ -31,7 +31,7 @@
 ### Claude Fundamentals                     
            
 Claude is more than just a chatbot, it's an AI assistant designed to be a thinking partner......                  
-- writing                   
+- writing                     
 - research & analysis            
 - coding assistance                  
                             
